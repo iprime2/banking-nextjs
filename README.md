@@ -40,6 +40,15 @@ Built with Next.js, Horizon is a financial SaaS platform that connects to multip
 
 and many more, including code architecture and reusability. 
 
+## <a name="introduction">🚀 Walkthrough Preview</a>
+
+
+## <a name="introduction">🖥️ Web Application Preview</a>
+**Dashboard**
+![image](https://github.com/user-attachments/assets/38fa7312-feef-44cf-b65d-88a18dc79592)
+**Transfer Funds**
+![image](https://github.com/user-attachments/assets/b5f04ce1-f862-445b-8abf-1770c971791e)
+
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
